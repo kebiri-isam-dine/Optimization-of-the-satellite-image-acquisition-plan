@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+    	
+    <version>1.0</version>
+    	
+    <configs>
+        		
+        <config default="false" name="Run_spotProba4" category="opl">
+            			
+            <ref name="Optimizing_the_acquisition_plan.mod" type="model">
+			</ref>
+            			
+            <ref name="spotproba4.dat" type="data">
+			</ref>
+            		
+        </config>
+        		
+        <config default="true" name="Run_spotProba5" category="opl">
+            			
+            <ref name="Optimizing_the_acquisition_plan.mod" type="model">
+			</ref>
+            			
+            <ref name="Parametres_spotProba5.ops" type="setting">
+			</ref>
+            			
+            <ref name="spotProba5.dat" type="data">
+			</ref>
+            		
+        </config>
+        	
+    </configs>
+    	
+
+</project>

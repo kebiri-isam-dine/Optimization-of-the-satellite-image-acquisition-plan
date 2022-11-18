@@ -1,0 +1,41 @@
+/*********************************************
+ * OPL 12.7.1.0 Data
+ * Author: fargier
+ * Creation Date: 20 nov. 2017 at 16:26:29
+ *********************************************/
+ 
+ 
+  // Maximum value of the objective : 60  (no uncertainty)
+// durations are high, hence it is not possible to select all the images  
+NbImages = 3 ;
+
+TY = [1, 2, 1] ;
+
+ 
+
+PM = [10, 20, 10] ;
+
+PA = [10, 20, 40] ;
+
+NbInstruments = 3 ;
+
+DD = [ [130, 230, 330], [150, 0, 350], [220, 320, 420] ] ;
+
+AN = [ [10, 10, 10], [5, 0, 5], [20, 20, 20] ] ;
+
+DU = 100 ;
+
+VI = 1 ;
+
+ 
+
+PMmax = 50 ;
+
+// Probability of Cloudy Weather
+ProbaInf = [0, 0, 0];
+ProbaSup =   [0, 0, 0];
+
+// proba of failure of each instrument
+Failure = [0, 0, 0];
+ 
+
