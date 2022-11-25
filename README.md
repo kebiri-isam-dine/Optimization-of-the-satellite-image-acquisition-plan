@@ -39,11 +39,11 @@ Details of all results here: [RESULTS](Rapport.pdf)
 
 Results for [spotProba5.dat](fichiers%20de%20données/spotProba5.dat) :
 
-<img src="Results\03.png">
+<img src="Results\03.png" >
 
-<img src="Results\02.png">
+<img src="Results\02.png" width="500" height="500">
 
-<img src="Results\01.png">
+<img src="Results\01.png" width="500" height="500">
 
 
 
