@@ -1,4 +1,4 @@
-# Optimizing-the-acquisition-plan-of-an-earth-optical-observation-satellite
+# Optimizing the acquisition plan of an earth optical observation satellite
 
 
 
